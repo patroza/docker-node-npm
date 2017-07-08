@@ -1,4 +1,4 @@
-FROM node:8.1.3-alpine
+FROM node:8.1.3
 
 MAINTAINER Patrick Roza <contact@patrickroza.com>
 
